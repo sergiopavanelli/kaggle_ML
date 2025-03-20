@@ -1,4 +1,6 @@
-# Descrição: Este repositório contém uma proposta de análise baseada em Machine Learning utilizando uma base de dados pública do Kaggle. O foco é aplicar a técnica de classificação para prever a probabilidade de um paciente ter doença cardíaca, explorando variáveis médicas relevantes. O projeto inclui a justificativa da técnica escolhida, objetivos da análise e um passo a passo para replicação.
+# Descrição: 
+
+## Este repositório contém uma proposta de análise baseada em Machine Learning utilizando uma base de dados pública do Kaggle. O foco é aplicar a técnica de classificação para prever a probabilidade de um paciente ter doença cardíaca, explorando variáveis médicas relevantes. O projeto inclui a justificativa da técnica escolhida, objetivos da análise e um passo a passo para replicação.
 
 ## 1. Base de dados escolhida
 **Nome da base de dados:** "Heart Disease Dataset" (disponível no Kaggle)
