@@ -30,14 +30,3 @@ A técnica de classificação é apropriada porque o objetivo é determinar se o
 Essa proposta equilibra uma boa exploração da base de dados com uma aplicação prática da técnica de classificação, permitindo gerar resultados interessantes e úteis a partir da análise.
 
 ---
-
-📌 **Instruções finais:**
-1. Salve este arquivo como `README.md`.
-2. Crie um repositório no GitHub (se ainda não tiver um).
-3. Suba o arquivo para o repositório.
-4. **Descrição do repositório:**
-   - **Título:** Análise de Doença Cardíaca com Machine Learning
-   - **Descrição:** Este repositório contém uma proposta de análise baseada em Machine Learning utilizando uma base de dados pública do Kaggle. O foco é aplicar a técnica de classificação para prever a probabilidade de um paciente ter doença cardíaca, explorando variáveis médicas relevantes. O projeto inclui a justificativa da técnica escolhida, objetivos da análise e um passo a passo para replicação.
-
-Pronto para impressionar com seu projeto? 🚀
-
